@@ -1,0 +1,39 @@
+ Ways to climb a staircase.
+ Possible moves: 1 step, 2 steps.
+ There is  1            way to climb a staircase of 1              step.
+ There are 2            ways to climb a staircase of 2             steps.
+ There are 3            ways to climb a staircase of 3             steps.
+ There are 5            ways to climb a staircase of 4             steps.
+ There are 55           ways to climb a staircase of 9             steps.
+ There are 233          ways to climb a staircase of 12            steps.
+ There are 121393       ways to climb a staircase of 25            steps.
+           -2           is an invalid input.
+           0            is an invalid input.
+           -3           is an invalid input.
+ There are 13           ways to climb a staircase of 6             steps.
+ There are 8            ways to climb a staircase of 5             steps.
+ There are 610          ways to climb a staircase of 14            steps.
+           -2           is an invalid input.
+ There is  1            way to climb a staircase of 1              step.
+ There are 2            ways to climb a staircase of 2             steps.
+ There are 3            ways to climb a staircase of 3             steps.
+ There are 5            ways to climb a staircase of 4             steps.
+ There are 8            ways to climb a staircase of 5             steps.
+ There are 13           ways to climb a staircase of 6             steps.
+ There are 21           ways to climb a staircase of 7             steps.
+ There are 34           ways to climb a staircase of 8             steps.
+ There are 55           ways to climb a staircase of 9             steps.
+ There are 89           ways to climb a staircase of 10            steps.
+ There are 144          ways to climb a staircase of 11            steps.
+ There are 233          ways to climb a staircase of 12            steps.
+ There are 377          ways to climb a staircase of 13            steps.
+ There are 610          ways to climb a staircase of 14            steps.
+ There are 987          ways to climb a staircase of 15            steps.
+ There are 1597         ways to climb a staircase of 16            steps.
+ There are 2584         ways to climb a staircase of 17            steps.
+ There are 4181         ways to climb a staircase of 18            steps.
+ There are 6765         ways to climb a staircase of 19            steps.
+ There are 10946        ways to climb a staircase of 20            steps.
+ There are 17711        ways to climb a staircase of 21            steps.
+ There are 28657        ways to climb a staircase of 22            steps.
+ Goodbye.
